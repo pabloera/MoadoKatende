@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "",
+    "link": "",
+    "text": "Pablo Almada"
+  },
+  "text": {
+    "more": "Repercution of  Twitter´s Solidarity with Moa do Katende death, from October 07, 2018 until Septeber 14, 2022.\nMeasuring the mentions after the assassination of Moa do Katende in October 08, 2018, throught the query:\n#moadokatende OR #moadocatende OR #mestremoa OR mestre moa OR moa do katende OR moa do catende",
+    "intro": "Repercution of  Twitter´s Solidarity with Moa do Katende death, from October 07, 2018 until Septeber 14, 2022. ",
+    "title": "Repercution of  Twitter´s Solidarity with Moa do Katende death, from October 07, 2018 until Septeber 14, 2022."
+  },
+  "legend": {
+    "edgeLabel": "noedge",
+    "colorLabel": "modularity class",
+    "nodeLabel": "Mestre Moa do Katende"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": false,
+    "hoverBehavior": "default"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": false,
+    "imageAttribute": false
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "curve",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#000",
+      "labelThreshold": 10,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 14
+    },
+    "graphProperties": {
+      "maxEdgeSize": 0.5,
+      "minEdgeSize": 0.2,
+      "minNodeSize": 1,
+      "maxNodeSize": 7
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}
